@@ -1,0 +1,12 @@
+.{
+    .name = .shaodj_zig,
+    .version = "0.1.0",
+    .fingerprint = 0x95f61dbf15fd127e,
+    .minimum_zig_version = "0.14.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}

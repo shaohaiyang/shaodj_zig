@@ -1,0 +1,5 @@
+.zig-cache/
+zig-out/
+shaodj_zig-macos-x86_64
+shaodj_zig-macos-arm64
+.DS_Store
